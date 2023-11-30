@@ -1,3 +1,9 @@
 # Interview assessment for QE candidates
 
-Please navigate to the Feature File in this repo and write a Behavior Driven Development (BDD) style scenario in the Gherkin format.
+Please clone this project and open it in your preferred IDE.
+
+Once opened, navigate to the Feature File in this repo and write a Behavior Driven Development (BDD) style scenario in the Gherkin format.
+
+If you can, please then implement the code required to automate this scenario, in your language of choice (Java / JavaScript / Go / Python / etc).
+
+If there is not enough time or there are technical issues, then please just explain and give examples of how you would automate the scenario.
