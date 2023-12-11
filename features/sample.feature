@@ -1,6 +1,6 @@
-Feature: Sample feature file for the interview assessment of QE candidates
-  As someone whole likes to stay up to date with news
-  I want to go to a website in a browser
-  So that I can read the latest news headlines
+Feature: Weather API integration
+  As the owner of an outdoor activities company (cycling, climbing, kayaking, etc)
+  I want to integrate my website with a weather API
+  So that I can inform my customers about the future weather forecast
 
 
